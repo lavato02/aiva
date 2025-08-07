@@ -1,0 +1,78 @@
+2025-04-14 00:54:14,758 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 00:54:16,449 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:16,450 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:16,450 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:18,551 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:18,552 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:18,556 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:20,612 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:20,613 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:20,613 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:22,679 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:22,680 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:22,680 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:24,760 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:24,761 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:24,762 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:26,881 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:26,882 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:26,883 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:28,999 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:29,000 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:29,000 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 00:54:31,044 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 00:54:31,045 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 00:54:31,045 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:17:22,816 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 01:17:24,989 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:17:24,991 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:17:24,991 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:17:27,321 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:17:27,322 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:17:27,323 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:17:29,618 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:17:29,619 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:17:29,619 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:24:35,852 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 01:24:37,645 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:24:37,646 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:24:37,647 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:24:40,017 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:24:40,018 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-turbo` does not exist or you do not have access to it.', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:24:40,019 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:25:42,958 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 01:25:44,284 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:25:44,285 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:25:44,286 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:25:46,303 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:25:46,304 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:25:46,305 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:25:48,377 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:25:48,378 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:25:48,378 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:29:40,210 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 01:29:41,252 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:29:41,253 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:29:41,254 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:29:43,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:29:43,449 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:29:43,449 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:29:45,571 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-14 01:29:45,571 - ERROR - Analiz hatasý: Error code: 400 - {'error': {'message': "Invalid type for 'messages[1].content[1].image_url': expected an object, but got a string instead.", 'type': 'invalid_request_error', 'param': 'messages[1].content[1].image_url', 'code': 'invalid_type'}}
+2025-04-14 01:29:45,572 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:32:53,366 - INFO - Aiva baþlatýldý | Model: gpt-4-vision-preview | Güvenli Mod: False
+2025-04-14 01:32:54,310 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:32:54,311 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:32:54,312 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:32:56,448 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:32:56,449 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:32:56,450 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:32:58,614 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:32:58,615 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:32:58,615 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:33:00,727 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 404 Not Found"
+2025-04-14 01:33:00,728 - ERROR - Analiz hatasý: Error code: 404 - {'error': {'message': 'The model `gpt-4-vision-preview` has been deprecated, learn more here: https://platform.openai.com/docs/deprecations', 'type': 'invalid_request_error', 'param': None, 'code': 'model_not_found'}}
+2025-04-14 01:33:00,728 - INFO - Aksiyon: WAIT | Sebep: Analiz baþarýsýz
+2025-04-14 01:35:25,612 - INFO - Aiva baþlatýldý | Model: gpt-4-turbo | Güvenli Mod: False
+2025-04-14 01:35:32,115 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-14 01:35:32,118 - INFO - Aksiyon: CLICK | Sebep: Üst kýsmýndaki 'File' menüsüne týklamak için imlecin konumlandýrýlmasý önerilir. Bu, menü seçeneklerine eriþim saðlayarak dosya iþlemleri gibi iþlemler için seçenekler sunar.
