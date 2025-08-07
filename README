@@ -1,0 +1,22 @@
+# 🤖 Aiva – GPT Vision Destekli Masaüstü Asistan
+
+## 📌 Kısa Tanıtım
+**Aiva**, ekran görüntülerini analiz edip görseldeki bilgileri yapay zekâ ile yorumlayan, otomasyon ve etkileşim odaklı bir masaüstü asistanıdır.  
+GPT Vision teknolojisi sayesinde ekranınızdaki yazı, şekil, grafik veya arayüzleri anlayabilir ve buna uygun komutlar çalıştırabilir.
+
+---
+
+## 🚀 Özellikler
+- **📸 Ekran Yakalama** → Anlık ekran görüntüsü alır.  
+- **🧠 Görsel Analiz** → GPT Vision ile görüntü içeriğini anlar.  
+- **⚡ Otomasyon** → Analize göre aksiyon alır (komut çalıştırma vb.).  
+- **💻 Kullanıcı Arayüzü** → Basit ve sezgisel UI.  
+- **🔧 Esnek Yapı** → Python ile kolayca genişletilebilir.
+
+---
+
+## ⚙️ Kurulum
+```bash
+git clone https://github.com/lavato02/aiva.git
+cd aiva
+pip install -r requirements.txt
